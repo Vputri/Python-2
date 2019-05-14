@@ -1,0 +1,8 @@
+x = 1
+while x<5:
+    if x==3:
+        break
+    print x
+    x = x+1
+    else :
+        print "loop sudah selesai"
